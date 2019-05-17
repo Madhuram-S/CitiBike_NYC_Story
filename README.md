@@ -2,8 +2,6 @@
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
-
 [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program is a fast growing green transportation system that is garnering lot of support. Here I am using Tableau to present a visual story of their growth and success.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
@@ -30,7 +28,7 @@ Using Python Pandas, data was cleaned, merged, rolled up into manageable dataset
 
 Using Tableau, a visual plot was created for each of the question that studies trends and concots a growth story. Finally tableau Story board was utilized to showcase Citi Bike growth and it success
 
-Visit this ![link](https://public.tableau.com/profile/madhu.swaminathan#!/vizhome/CitiBike_NYC_AllYears/CitiBike-Story) to read the story.
+Visit this [link](https://public.tableau.com/profile/madhu.swaminathan#!/vizhome/CitiBike_NYC_AllYears/CitiBike-Story) to read the story.
 
 Growth of Citi Bike
 
